@@ -1,7 +1,7 @@
 local v8 = loadstring(game:HttpGet('https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua'))();
 local v9 = v8:CreateWindow({
     Title = 'Visitante',
-    SubTitle = '- somente visualizar',
+    SubTitle = '- somente visualizaar',
     TabWidth = 0,
     Size = UDim2.fromOffset(300, 300),
     Acrylic = true,
