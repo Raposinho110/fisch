@@ -5,7 +5,7 @@ local v9 = v8:CreateWindow({
     TabWidth = 0,
     Size = UDim2.fromOffset(300, 300),
     Acrylic = true,
-    Theme = 'Light',
+    Theme = 'Dark',
     MinimizeKey = Enum.KeyCode.LeftControl
 });
 local v10 = {
